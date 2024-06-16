@@ -22,6 +22,7 @@ The LEDs indicate the current state, and the button can be used to manually chan
 ## Settings & Wiring
 In the first code block "Settings" in "main.py", you can specify settings like the light sample period or motor speed.
 The second code block "IO pins" can be modified to select the correct Gpio pins for sensors etc. of your configuration.
+
 <img src="IMG-20240514-WA0004.jpg" alt="state machine" width="500"/>
 <img src="IMG-20240514-WA0005.jpg" alt="state machine" width="500"/>
 <img src="IMG-20240610-WA0004.jpg" alt="state machine" width="500"/>
